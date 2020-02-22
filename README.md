@@ -1,2 +1,2 @@
 # MSC-midterm-assignment
-MSC-mideterm-assignment
+MSC-mideterm
